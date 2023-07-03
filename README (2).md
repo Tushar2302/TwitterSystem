@@ -40,15 +40,6 @@ Its a Overview of Users and tweet System works in a Twitter.
 Build all the backend service that Tweeter or any Social media is provides.And build fronted and integrate backend with fronted.
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
 ## Video
 
  - [Drive Link](https://drive.google.com/file/d/1sIoY4H6avfd34Uuf8Z6zapFBGgYld1p2/view?usp=drivesdk)
